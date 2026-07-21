@@ -1,0 +1,12 @@
+name: decision_tool_app_-_test
+title: Decision tool app - test
+username: ishana-atkinson
+account: ishana-atkinson
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12353458
+bundleId: 9836393
+url: https://ishana-atkinson.shinyapps.io/decision_tool_app_-_test/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

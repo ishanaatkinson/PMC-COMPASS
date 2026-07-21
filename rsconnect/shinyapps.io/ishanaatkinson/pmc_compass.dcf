@@ -1,0 +1,13 @@
+name: pmc_compass
+title:
+username: ishanaatkinson
+account: ishanaatkinson
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16542950
+bundleId: 11628591
+url: https://pmc-compass.shinyapps.io/pmc_compass/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: FIXES.docx
