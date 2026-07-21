@@ -1,0 +1,876 @@
+Country,Iso code,v024,v025,dataset
+NA,AO,benguela,rural,AOKR71FL
+NA,AO,lunda sul,urban,AOKR71FL
+NA,AO,luanda,urban,AOKR71FL
+NA,AO,cuando cubango,rural,AOKR71FL
+NA,AO,namibe,rural,AOKR71FL
+NA,AO,cabinda,urban,AOKR71FL
+NA,AO,benguela,urban,AOKR71FL
+NA,AO,cuanza sul,rural,AOKR71FL
+NA,AO,malanje,rural,AOKR71FL
+NA,AO,cuando cubango,urban,AOKR71FL
+NA,AO,huíla,urban,AOKR71FL
+NA,AO,lunda norte,rural,AOKR71FL
+NA,AO,huambo,rural,AOKR71FL
+NA,AO,malanje,urban,AOKR71FL
+NA,AO,huíla,rural,AOKR71FL
+NA,AO,moxico,rural,AOKR71FL
+NA,AO,lunda norte,urban,AOKR71FL
+NA,AO,luanda,rural,AOKR71FL
+NA,AO,zaire,urban,AOKR71FL
+NA,AO,bié,urban,AOKR71FL
+NA,AO,bengo,urban,AOKR71FL
+NA,AO,cuanza norte,urban,AOKR71FL
+NA,AO,namibe,urban,AOKR71FL
+NA,AO,cunene,rural,AOKR71FL
+NA,AO,huambo,urban,AOKR71FL
+NA,AO,lunda sul,rural,AOKR71FL
+NA,AO,cabinda,rural,AOKR71FL
+NA,AO,moxico,urban,AOKR71FL
+NA,AO,uíge,rural,AOKR71FL
+NA,AO,bengo,rural,AOKR71FL
+NA,AO,bié,rural,AOKR71FL
+NA,AO,cuanza norte,rural,AOKR71FL
+NA,AO,uíge,urban,AOKR71FL
+NA,AO,cuanza sul,urban,AOKR71FL
+NA,AO,cunene,urban,AOKR71FL
+NA,AO,zaire,rural,AOKR71FL
+NA,BF,boucle du mouhoun,rural,BFKR81FL
+NA,BF,boucle du mouhoun,urban,BFKR81FL
+NA,BF,cascades,rural,BFKR81FL
+NA,BF,cascades,urban,BFKR81FL
+NA,BF,centre,urban,BFKR81FL
+NA,BF,centre,rural,BFKR81FL
+NA,BF,centre est,rural,BFKR81FL
+NA,BF,centre est,urban,BFKR81FL
+NA,BF,centre nord,rural,BFKR81FL
+NA,BF,centre nord,urban,BFKR81FL
+NA,BF,centre ouest,rural,BFKR81FL
+NA,BF,centre ouest,urban,BFKR81FL
+NA,BF,centre sud,rural,BFKR81FL
+NA,BF,centre sud,urban,BFKR81FL
+NA,BF,est,rural,BFKR81FL
+NA,BF,est,urban,BFKR81FL
+NA,BF,hauts-bassins,urban,BFKR81FL
+NA,BF,hauts-bassins,rural,BFKR81FL
+NA,BF,nord,rural,BFKR81FL
+NA,BF,nord,urban,BFKR81FL
+NA,BF,plateau central,rural,BFKR81FL
+NA,BF,plateau central,urban,BFKR81FL
+NA,BF,sahel,urban,BFKR81FL
+NA,BF,sahel,rural,BFKR81FL
+NA,BF,sud-ouest,rural,BFKR81FL
+NA,BF,sud-ouest,urban,BFKR81FL
+NA,BJ,alibori,rural,BJKR71FL
+NA,BJ,alibori,urban,BJKR71FL
+NA,BJ,atacora,rural,BJKR71FL
+NA,BJ,atacora,urban,BJKR71FL
+NA,BJ,atlantic,urban,BJKR71FL
+NA,BJ,atlantic,rural,BJKR71FL
+NA,BJ,borgou,rural,BJKR71FL
+NA,BJ,borgou,urban,BJKR71FL
+NA,BJ,collines,rural,BJKR71FL
+NA,BJ,collines,urban,BJKR71FL
+NA,BJ,couffo,urban,BJKR71FL
+NA,BJ,couffo,rural,BJKR71FL
+NA,BJ,donga,rural,BJKR71FL
+NA,BJ,donga,urban,BJKR71FL
+NA,BJ,littoral,urban,BJKR71FL
+NA,BJ,mono,rural,BJKR71FL
+NA,BJ,mono,urban,BJKR71FL
+NA,BJ,ouémé,urban,BJKR71FL
+NA,BJ,ouémé,rural,BJKR71FL
+NA,BJ,plateau,urban,BJKR71FL
+NA,BJ,plateau,rural,BJKR71FL
+NA,BJ,zou,rural,BJKR71FL
+NA,BJ,zou,urban,BJKR71FL
+NA,BU,cankuzo,rural,BUKR71FL
+NA,BU,karusi,rural,BUKR71FL
+NA,BU,karusi,urban,BUKR71FL
+NA,BU,ruyigi,rural,BUKR71FL
+NA,BU,bujumbura mairie,urban,BUKR71FL
+NA,BU,rutana,rural,BUKR71FL
+NA,BU,gitega,rural,BUKR71FL
+NA,BU,ngozi,rural,BUKR71FL
+NA,BU,cibitoke,rural,BUKR71FL
+NA,BU,gitega,urban,BUKR71FL
+NA,BU,muramvya,rural,BUKR71FL
+NA,BU,rutana,urban,BUKR71FL
+NA,BU,mwaro,rural,BUKR71FL
+NA,BU,kirundo,rural,BUKR71FL
+NA,BU,kayanza,rural,BUKR71FL
+NA,BU,bubanza,urban,BUKR71FL
+NA,BU,ngozi,urban,BUKR71FL
+NA,BU,muyinga,rural,BUKR71FL
+NA,BU,bujumbura rural,urban,BUKR71FL
+NA,BU,bubanza,rural,BUKR71FL
+NA,BU,makamba,rural,BUKR71FL
+NA,BU,kayanza,urban,BUKR71FL
+NA,BU,bururi,rural,BUKR71FL
+NA,BU,rumonge,urban,BUKR71FL
+NA,BU,bujumbura rural,rural,BUKR71FL
+NA,BU,kirundo,urban,BUKR71FL
+NA,BU,rumonge,rural,BUKR71FL
+NA,BU,makamba,urban,BUKR71FL
+NA,BU,bururi,urban,BUKR71FL
+NA,BU,mwaro,urban,BUKR71FL
+NA,BU,cibitoke,urban,BUKR71FL
+NA,BU,cankuzo,urban,BUKR71FL
+NA,BU,muyinga,urban,BUKR71FL
+NA,BU,muramvya,urban,BUKR71FL
+NA,BU,ruyigi,urban,BUKR71FL
+NA,CD,equateur,rural,CDKR61FL
+NA,CD,kinshasa,urban,CDKR61FL
+NA,CD,bandundu,rural,CDKR61FL
+NA,CD,sud-kivu,rural,CDKR61FL
+NA,CD,orientale,rural,CDKR61FL
+NA,CD,kasai-occidental,rural,CDKR61FL
+NA,CD,katanga,rural,CDKR61FL
+NA,CD,orientale,urban,CDKR61FL
+NA,CD,nord-kivu,rural,CDKR61FL
+NA,CD,bas-congo,rural,CDKR61FL
+NA,CD,bandundu,urban,CDKR61FL
+NA,CD,kasai-oriental,rural,CDKR61FL
+NA,CD,nord-kivu,urban,CDKR61FL
+NA,CD,equateur,urban,CDKR61FL
+NA,CD,maniema,urban,CDKR61FL
+NA,CD,maniema,rural,CDKR61FL
+NA,CD,katanga,urban,CDKR61FL
+NA,CD,kasai-occidental,urban,CDKR61FL
+NA,CD,bas-congo,urban,CDKR61FL
+NA,CD,kasai-oriental,urban,CDKR61FL
+NA,CD,sud-kivu,urban,CDKR61FL
+NA,CF,rs i,urban,CFKR31FL
+NA,CF,rs i,rural,CFKR31FL
+NA,CF,rs ii,urban,CFKR31FL
+NA,CF,rs ii,rural,CFKR31FL
+NA,CF,rs iii,urban,CFKR31FL
+NA,CF,rs iii,rural,CFKR31FL
+NA,CF,rs iv,urban,CFKR31FL
+NA,CF,rs iv,rural,CFKR31FL
+NA,CF,rs v,urban,CFKR31FL
+NA,CF,rs v,rural,CFKR31FL
+NA,CF,bangui,urban,CFKR31FL
+NA,CG,kouilou,rural,CGKR61FL
+NA,CG,niari,urban,CGKR61FL
+NA,CG,niari,rural,CGKR61FL
+NA,CG,lekoumou,rural,CGKR61FL
+NA,CG,bouenza,urban,CGKR61FL
+NA,CG,bouenza,rural,CGKR61FL
+NA,CG,pool,rural,CGKR61FL
+NA,CG,plateaux,rural,CGKR61FL
+NA,CG,cuvette,rural,CGKR61FL
+NA,CG,cuvette - ouest,rural,CGKR61FL
+NA,CG,sangha,urban,CGKR61FL
+NA,CG,sangha,rural,CGKR61FL
+NA,CG,likouala,rural,CGKR61FL
+NA,CG,brazzaville,urban,CGKR61FL
+NA,CG,pointe-noire,urban,CGKR61FL
+NA,CI,abidjan,urban,CIKR81FL
+NA,CI,abidjan,rural,CIKR81FL
+NA,CI,sassandra-marahoue,urban,CIKR81FL
+NA,CI,sassandra-marahoue,rural,CIKR81FL
+NA,CI,savanes,rural,CIKR81FL
+NA,CI,savanes,urban,CIKR81FL
+NA,CI,vallee du bandama,urban,CIKR81FL
+NA,CI,vallee du bandama,rural,CIKR81FL
+NA,CI,comoe,urban,CIKR81FL
+NA,CI,comoe,rural,CIKR81FL
+NA,CI,montagnes,rural,CIKR81FL
+NA,CI,montagnes,urban,CIKR81FL
+NA,CI,yamoussoukro,rural,CIKR81FL
+NA,CI,yamoussoukro,urban,CIKR81FL
+NA,CI,zanzan,rural,CIKR81FL
+NA,CI,zanzan,urban,CIKR81FL
+NA,CI,bas sassandra,rural,CIKR81FL
+NA,CI,bas sassandra,urban,CIKR81FL
+NA,CI,denguele,rural,CIKR81FL
+NA,CI,denguele,urban,CIKR81FL
+NA,CI,lacs,rural,CIKR81FL
+NA,CI,lacs,urban,CIKR81FL
+NA,CI,woroba,urban,CIKR81FL
+NA,CI,woroba,rural,CIKR81FL
+NA,CI,goh-djiboua,urban,CIKR81FL
+NA,CI,goh-djiboua,rural,CIKR81FL
+NA,CI,lagunes,rural,CIKR81FL
+NA,CI,lagunes,urban,CIKR81FL
+NA,CM,far-north,urban,CMKR71FL
+NA,CM,east,rural,CMKR71FL
+NA,CM,centre (without yaounde),urban,CMKR71FL
+NA,CM,yaounde,urban,CMKR71FL
+NA,CM,adamawa,rural,CMKR71FL
+NA,CM,north-west,urban,CMKR71FL
+NA,CM,far-north,rural,CMKR71FL
+NA,CM,littoral (without douala),urban,CMKR71FL
+NA,CM,douala,urban,CMKR71FL
+NA,CM,south,urban,CMKR71FL
+NA,CM,south,rural,CMKR71FL
+NA,CM,west,rural,CMKR71FL
+NA,CM,south-west,urban,CMKR71FL
+NA,CM,centre (without yaounde),rural,CMKR71FL
+NA,CM,east,urban,CMKR71FL
+NA,CM,north-west,rural,CMKR71FL
+NA,CM,north,rural,CMKR71FL
+NA,CM,north,urban,CMKR71FL
+NA,CM,west,urban,CMKR71FL
+NA,CM,littoral (without douala),rural,CMKR71FL
+NA,CM,adamawa,urban,CMKR71FL
+NA,ET,tigray,urban,ETKR81FL
+NA,ET,tigray,rural,ETKR81FL
+NA,ET,afar,urban,ETKR81FL
+NA,ET,afar,rural,ETKR81FL
+NA,ET,amhara,urban,ETKR81FL
+NA,ET,amhara,rural,ETKR81FL
+NA,ET,oromia,urban,ETKR81FL
+NA,ET,oromia,rural,ETKR81FL
+NA,ET,somali,urban,ETKR81FL
+NA,ET,somali,rural,ETKR81FL
+NA,ET,benishangul,urban,ETKR81FL
+NA,ET,benishangul,rural,ETKR81FL
+NA,ET,snnpr,urban,ETKR81FL
+NA,ET,snnpr,rural,ETKR81FL
+NA,ET,gambela,urban,ETKR81FL
+NA,ET,gambela,rural,ETKR81FL
+NA,ET,harari,urban,ETKR81FL
+NA,ET,harari,rural,ETKR81FL
+NA,ET,addis adaba,urban,ETKR81FL
+NA,ET,dire dawa,urban,ETKR81FL
+NA,ET,dire dawa,rural,ETKR81FL
+NA,GA,ngounié,urban,GAKR71FL
+NA,GA,nyanga,urban,GAKR71FL
+NA,GA,haut-ogooué,urban,GAKR71FL
+NA,GA,port-gentil,urban,GAKR71FL
+NA,GA,ogooué-ivindo,rural,GAKR71FL
+NA,GA,libreville,urban,GAKR71FL
+NA,GA,haut-ogooué,rural,GAKR71FL
+NA,GA,ngounié,rural,GAKR71FL
+NA,GA,ogooué-lolo,urban,GAKR71FL
+NA,GA,estuaire,urban,GAKR71FL
+NA,GA,woleu-ntem,urban,GAKR71FL
+NA,GA,ogooué-ivindo,urban,GAKR71FL
+NA,GA,ogooué-maritime,urban,GAKR71FL
+NA,GA,ogooué-lolo,rural,GAKR71FL
+NA,GA,woleu-ntem,rural,GAKR71FL
+NA,GA,estuaire,rural,GAKR71FL
+NA,GA,ogooué-maritime,rural,GAKR71FL
+NA,GA,moyen-ogooué,urban,GAKR71FL
+NA,GA,moyen-ogooué,rural,GAKR71FL
+NA,GA,nyanga,rural,GAKR71FL
+NA,GH,western,rural,GHKR8CFL
+NA,GH,western,urban,GHKR8CFL
+NA,GH,central,rural,GHKR8CFL
+NA,GH,central,urban,GHKR8CFL
+NA,GH,greater accra,urban,GHKR8CFL
+NA,GH,greater accra,rural,GHKR8CFL
+NA,GH,volta,rural,GHKR8CFL
+NA,GH,volta,urban,GHKR8CFL
+NA,GH,eastern,urban,GHKR8CFL
+NA,GH,eastern,rural,GHKR8CFL
+NA,GH,ashanti,urban,GHKR8CFL
+NA,GH,ashanti,rural,GHKR8CFL
+NA,GH,western north,rural,GHKR8CFL
+NA,GH,western north,urban,GHKR8CFL
+NA,GH,ahafo,urban,GHKR8CFL
+NA,GH,ahafo,rural,GHKR8CFL
+NA,GH,bono,rural,GHKR8CFL
+NA,GH,bono,urban,GHKR8CFL
+NA,GH,bono east,rural,GHKR8CFL
+NA,GH,bono east,urban,GHKR8CFL
+NA,GH,oti,rural,GHKR8CFL
+NA,GH,oti,urban,GHKR8CFL
+NA,GH,northern,rural,GHKR8CFL
+NA,GH,northern,urban,GHKR8CFL
+NA,GH,savannah,rural,GHKR8CFL
+NA,GH,savannah,urban,GHKR8CFL
+NA,GH,north east,rural,GHKR8CFL
+NA,GH,north east,urban,GHKR8CFL
+NA,GH,upper east,rural,GHKR8CFL
+NA,GH,upper east,urban,GHKR8CFL
+NA,GH,upper west,rural,GHKR8CFL
+NA,GH,upper west,urban,GHKR8CFL
+NA,GM,banjul,urban,GMKR81FL
+NA,GM,kanifing,urban,GMKR81FL
+NA,GM,brikama,urban,GMKR81FL
+NA,GM,brikama,rural,GMKR81FL
+NA,GM,mansakonko,urban,GMKR81FL
+NA,GM,mansakonko,rural,GMKR81FL
+NA,GM,kerewan,urban,GMKR81FL
+NA,GM,kerewan,rural,GMKR81FL
+NA,GM,kuntaur,urban,GMKR81FL
+NA,GM,kuntaur,rural,GMKR81FL
+NA,GM,janjanbureh,urban,GMKR81FL
+NA,GM,janjanbureh,rural,GMKR81FL
+NA,GM,basse,urban,GMKR81FL
+NA,GM,basse,rural,GMKR81FL
+NA,GN,mamou,urban,GNKR71FL
+NA,GN,mamou,rural,GNKR71FL
+NA,GN,n'zérékoré,rural,GNKR71FL
+NA,GN,kindia,rural,GNKR71FL
+NA,GN,conakry,urban,GNKR71FL
+NA,GN,kankan,rural,GNKR71FL
+NA,GN,boké,rural,GNKR71FL
+NA,GN,faranah,rural,GNKR71FL
+NA,GN,labé,rural,GNKR71FL
+NA,GN,kindia,urban,GNKR71FL
+NA,GN,kankan,urban,GNKR71FL
+NA,GN,labé,urban,GNKR71FL
+NA,GN,boké,urban,GNKR71FL
+NA,GN,faranah,urban,GNKR71FL
+NA,GN,n'zérékoré,urban,GNKR71FL
+NA,KE,mombasa,urban,KEKR8CFL
+NA,KE,kwale,rural,KEKR8CFL
+NA,KE,kwale,urban,KEKR8CFL
+NA,KE,kilifi,rural,KEKR8CFL
+NA,KE,kilifi,urban,KEKR8CFL
+NA,KE,tana river,urban,KEKR8CFL
+NA,KE,tana river,rural,KEKR8CFL
+NA,KE,lamu,rural,KEKR8CFL
+NA,KE,lamu,urban,KEKR8CFL
+NA,KE,taita taveta,rural,KEKR8CFL
+NA,KE,taita taveta,urban,KEKR8CFL
+NA,KE,garissa,rural,KEKR8CFL
+NA,KE,garissa,urban,KEKR8CFL
+NA,KE,wajir,rural,KEKR8CFL
+NA,KE,wajir,urban,KEKR8CFL
+NA,KE,mandera,rural,KEKR8CFL
+NA,KE,mandera,urban,KEKR8CFL
+NA,KE,marsabit,rural,KEKR8CFL
+NA,KE,marsabit,urban,KEKR8CFL
+NA,KE,isiolo,rural,KEKR8CFL
+NA,KE,isiolo,urban,KEKR8CFL
+NA,KE,meru,urban,KEKR8CFL
+NA,KE,meru,rural,KEKR8CFL
+NA,KE,tharaka-nithi,rural,KEKR8CFL
+NA,KE,tharaka-nithi,urban,KEKR8CFL
+NA,KE,embu,rural,KEKR8CFL
+NA,KE,embu,urban,KEKR8CFL
+NA,KE,kitui,rural,KEKR8CFL
+NA,KE,kitui,urban,KEKR8CFL
+NA,KE,machakos,urban,KEKR8CFL
+NA,KE,machakos,rural,KEKR8CFL
+NA,KE,makueni,rural,KEKR8CFL
+NA,KE,makueni,urban,KEKR8CFL
+NA,KE,nyandarua,rural,KEKR8CFL
+NA,KE,nyandarua,urban,KEKR8CFL
+NA,KE,nyeri,rural,KEKR8CFL
+NA,KE,nyeri,urban,KEKR8CFL
+NA,KE,kirinyaga,rural,KEKR8CFL
+NA,KE,kirinyaga,urban,KEKR8CFL
+NA,KE,murang'a,rural,KEKR8CFL
+NA,KE,murang'a,urban,KEKR8CFL
+NA,KE,kiambu,rural,KEKR8CFL
+NA,KE,kiambu,urban,KEKR8CFL
+NA,KE,turkana,rural,KEKR8CFL
+NA,KE,turkana,urban,KEKR8CFL
+NA,KE,west pokot,urban,KEKR8CFL
+NA,KE,west pokot,rural,KEKR8CFL
+NA,KE,samburu,rural,KEKR8CFL
+NA,KE,samburu,urban,KEKR8CFL
+NA,KE,trans nzoia,rural,KEKR8CFL
+NA,KE,trans nzoia,urban,KEKR8CFL
+NA,KE,uasin gishu,rural,KEKR8CFL
+NA,KE,uasin gishu,urban,KEKR8CFL
+NA,KE,elgeyo-marakwet,urban,KEKR8CFL
+NA,KE,elgeyo-marakwet,rural,KEKR8CFL
+NA,KE,nandi,rural,KEKR8CFL
+NA,KE,nandi,urban,KEKR8CFL
+NA,KE,baringo,rural,KEKR8CFL
+NA,KE,baringo,urban,KEKR8CFL
+NA,KE,laikipia,rural,KEKR8CFL
+NA,KE,laikipia,urban,KEKR8CFL
+NA,KE,nakuru,rural,KEKR8CFL
+NA,KE,nakuru,urban,KEKR8CFL
+NA,KE,narok,rural,KEKR8CFL
+NA,KE,narok,urban,KEKR8CFL
+NA,KE,kajiado,urban,KEKR8CFL
+NA,KE,kajiado,rural,KEKR8CFL
+NA,KE,kericho,rural,KEKR8CFL
+NA,KE,kericho,urban,KEKR8CFL
+NA,KE,bomet,rural,KEKR8CFL
+NA,KE,bomet,urban,KEKR8CFL
+NA,KE,kakamega,urban,KEKR8CFL
+NA,KE,kakamega,rural,KEKR8CFL
+NA,KE,vihiga,rural,KEKR8CFL
+NA,KE,vihiga,urban,KEKR8CFL
+NA,KE,bungoma,rural,KEKR8CFL
+NA,KE,bungoma,urban,KEKR8CFL
+NA,KE,busia,rural,KEKR8CFL
+NA,KE,busia,urban,KEKR8CFL
+NA,KE,siaya,rural,KEKR8CFL
+NA,KE,siaya,urban,KEKR8CFL
+NA,KE,kisumu,rural,KEKR8CFL
+NA,KE,kisumu,urban,KEKR8CFL
+NA,KE,homa bay,urban,KEKR8CFL
+NA,KE,homa bay,rural,KEKR8CFL
+NA,KE,migori,rural,KEKR8CFL
+NA,KE,migori,urban,KEKR8CFL
+NA,KE,kisii,rural,KEKR8CFL
+NA,KE,kisii,urban,KEKR8CFL
+NA,KE,nyamira,rural,KEKR8CFL
+NA,KE,nyamira,urban,KEKR8CFL
+NA,KE,nairobi,urban,KEKR8CFL
+NA,KM,Mohéli,Rural,KMKR61FL
+NA,KM,Mohéli,Urban,KMKR61FL
+NA,KM,Ndzouani,Rural,KMKR61FL
+NA,KM,Ndzouani,Urban,KMKR61FL
+NA,KM,Ngazidja,Rural,KMKR61FL
+NA,KM,Ngazidja,Urban,KMKR61FL
+NA,LB,north western,rural,LBKR7AFL
+NA,LB,south eastern a,rural,LBKR7AFL
+NA,LB,south central,rural,LBKR7AFL
+NA,LB,south central,urban,LBKR7AFL
+NA,LB,south eastern b,rural,LBKR7AFL
+NA,LB,north western,urban,LBKR7AFL
+NA,LB,north central,rural,LBKR7AFL
+NA,LB,north central,urban,LBKR7AFL
+NA,LB,south eastern b,urban,LBKR7AFL
+NA,LB,south eastern a,urban,LBKR7AFL
+NA,LS,butha-buthe,rural,LSKR81FL
+NA,LS,butha-buthe,urban,LSKR81FL
+NA,LS,leribe,rural,LSKR81FL
+NA,LS,leribe,urban,LSKR81FL
+NA,LS,berea,rural,LSKR81FL
+NA,LS,berea,urban,LSKR81FL
+NA,LS,maseru,rural,LSKR81FL
+NA,LS,maseru,urban,LSKR81FL
+NA,LS,mafeteng,rural,LSKR81FL
+NA,LS,mafeteng,urban,LSKR81FL
+NA,LS,mohale's hoek,rural,LSKR81FL
+NA,LS,mohale's hoek,urban,LSKR81FL
+NA,LS,quthing,rural,LSKR81FL
+NA,LS,quthing,urban,LSKR81FL
+NA,LS,qacha's nek,rural,LSKR81FL
+NA,LS,thaba-tseka,rural,LSKR81FL
+NA,LS,qacha's nek,urban,LSKR81FL
+NA,LS,mokhotlong,rural,LSKR81FL
+NA,LS,mokhotlong,urban,LSKR81FL
+NA,LS,thaba-tseka,urban,LSKR81FL
+NA,MD,antananarivo,urban,MDKR81FL
+NA,MD,analamanga,rural,MDKR81FL
+NA,MD,analamanga,urban,MDKR81FL
+NA,MD,vakinankaratra,urban,MDKR81FL
+NA,MD,vakinankaratra,rural,MDKR81FL
+NA,MD,itasy,urban,MDKR81FL
+NA,MD,itasy,rural,MDKR81FL
+NA,MD,bongolava,urban,MDKR81FL
+NA,MD,bongolava,rural,MDKR81FL
+NA,MD,haute matsiatra,urban,MDKR81FL
+NA,MD,haute matsiatra,rural,MDKR81FL
+NA,MD,amoron i mania,urban,MDKR81FL
+NA,MD,amoron i mania,rural,MDKR81FL
+NA,MD,vatovavy fitovinany,urban,MDKR81FL
+NA,MD,vatovavy fitovinany,rural,MDKR81FL
+NA,MD,ihorombe,urban,MDKR81FL
+NA,MD,ihorombe,rural,MDKR81FL
+NA,MD,atsimo atsinanana,urban,MDKR81FL
+NA,MD,atsimo atsinanana,rural,MDKR81FL
+NA,MD,atsinanana,urban,MDKR81FL
+NA,MD,atsinanana,rural,MDKR81FL
+NA,MD,analanjirofo,urban,MDKR81FL
+NA,MD,analanjirofo,rural,MDKR81FL
+NA,MD,alaotra mangoro,urban,MDKR81FL
+NA,MD,alaotra mangoro,rural,MDKR81FL
+NA,MD,boeny,urban,MDKR81FL
+NA,MD,boeny,rural,MDKR81FL
+NA,MD,sofia,rural,MDKR81FL
+NA,MD,sofia,urban,MDKR81FL
+NA,MD,betsiboka,urban,MDKR81FL
+NA,MD,betsiboka,rural,MDKR81FL
+NA,MD,melaky,urban,MDKR81FL
+NA,MD,melaky,rural,MDKR81FL
+NA,MD,atsimo andrefana,urban,MDKR81FL
+NA,MD,atsimo andrefana,rural,MDKR81FL
+NA,MD,androy,urban,MDKR81FL
+NA,MD,androy,rural,MDKR81FL
+NA,MD,anosy,urban,MDKR81FL
+NA,MD,anosy,rural,MDKR81FL
+NA,MD,menabe,urban,MDKR81FL
+NA,MD,menabe,rural,MDKR81FL
+NA,MD,diana,urban,MDKR81FL
+NA,MD,diana,rural,MDKR81FL
+NA,MD,sava,urban,MDKR81FL
+NA,MD,sava,rural,MDKR81FL
+NA,ML,kayes,rural,MLKR7AFL
+NA,ML,kayes,urban,MLKR7AFL
+NA,ML,koulikoro,rural,MLKR7AFL
+NA,ML,koulikoro,urban,MLKR7AFL
+NA,ML,sikasso,rural,MLKR7AFL
+NA,ML,sikasso,urban,MLKR7AFL
+NA,ML,segou,rural,MLKR7AFL
+NA,ML,segou,urban,MLKR7AFL
+NA,ML,mopti,rural,MLKR7AFL
+NA,ML,mopti,urban,MLKR7AFL
+NA,ML,toumbouctou,rural,MLKR7AFL
+NA,ML,toumbouctou,urban,MLKR7AFL
+NA,ML,gao,rural,MLKR7AFL
+NA,ML,gao,urban,MLKR7AFL
+NA,ML,kidal,urban,MLKR7AFL
+NA,ML,bamako,urban,MLKR7AFL
+NA,MR,hodh echargui,urban,MRKR71FL
+NA,MR,hodh echargui,rural,MRKR71FL
+NA,MR,hodh gharbi,urban,MRKR71FL
+NA,MR,hodh gharbi,rural,MRKR71FL
+NA,MR,assaba,urban,MRKR71FL
+NA,MR,assaba,rural,MRKR71FL
+NA,MR,gorgol,urban,MRKR71FL
+NA,MR,gorgol,rural,MRKR71FL
+NA,MR,brakna,urban,MRKR71FL
+NA,MR,brakna,rural,MRKR71FL
+NA,MR,trarza,urban,MRKR71FL
+NA,MR,trarza,rural,MRKR71FL
+NA,MR,adrar,urban,MRKR71FL
+NA,MR,adrar,rural,MRKR71FL
+NA,MR,dakhlet nouadhibou,rural,MRKR71FL
+NA,MR,dakhlet nouadhibou,urban,MRKR71FL
+NA,MR,tiris zemour et inchiri,rural,MRKR71FL
+NA,MR,tagant,urban,MRKR71FL
+NA,MR,tagant,rural,MRKR71FL
+NA,MR,guidimagha,urban,MRKR71FL
+NA,MR,guidimagha,rural,MRKR71FL
+NA,MR,tiris zemour et inchiri,urban,MRKR71FL
+NA,MR,nouakchott nord,urban,MRKR71FL
+NA,MR,nouakchott ouest,urban,MRKR71FL
+NA,MR,nouakchott sud,urban,MRKR71FL
+NA,MW,central region,urban,MWKR7AFL
+NA,MW,central region,rural,MWKR7AFL
+NA,MW,southern region,rural,MWKR7AFL
+NA,MW,northern region,rural,MWKR7AFL
+NA,MW,northern region,urban,MWKR7AFL
+NA,MW,southern region,urban,MWKR7AFL
+NA,MZ,niassa,urban,MZKR81FL
+NA,MZ,niassa,rural,MZKR81FL
+NA,MZ,cabo delgado,urban,MZKR81FL
+NA,MZ,cabo delgado,rural,MZKR81FL
+NA,MZ,nampula,urban,MZKR81FL
+NA,MZ,nampula,rural,MZKR81FL
+NA,MZ,zambézia,urban,MZKR81FL
+NA,MZ,zambézia,rural,MZKR81FL
+NA,MZ,tete,urban,MZKR81FL
+NA,MZ,tete,rural,MZKR81FL
+NA,MZ,manica,urban,MZKR81FL
+NA,MZ,manica,rural,MZKR81FL
+NA,MZ,sofala,urban,MZKR81FL
+NA,MZ,sofala,rural,MZKR81FL
+NA,MZ,inhambane,urban,MZKR81FL
+NA,MZ,inhambane,rural,MZKR81FL
+NA,MZ,gaza,urban,MZKR81FL
+NA,MZ,gaza,rural,MZKR81FL
+NA,MZ,maputo,urban,MZKR81FL
+NA,MZ,maputo,rural,MZKR81FL
+NA,MZ,cidade de maputo,urban,MZKR81FL
+NA,NG,north central,urban,NGKR7BFL
+NA,NG,north central,rural,NGKR7BFL
+NA,NG,north east,urban,NGKR7BFL
+NA,NG,north east,rural,NGKR7BFL
+NA,NG,north west,urban,NGKR7BFL
+NA,NG,north west,rural,NGKR7BFL
+NA,NG,south east,urban,NGKR7BFL
+NA,NG,south east,rural,NGKR7BFL
+NA,NG,south south,urban,NGKR7BFL
+NA,NG,south south,rural,NGKR7BFL
+NA,NG,south west,urban,NGKR7BFL
+NA,NG,south west,rural,NGKR7BFL
+NA,NI,Zinder,Rural,NIKR61FL
+NA,NI,Maradi,Rural,NIKR61FL
+NA,NI,Diffa,Rural,NIKR61FL
+NA,NI,Tahoua,Rural,NIKR61FL
+NA,NI,Tahoua,Urban,NIKR61FL
+NA,NI,Dosso,Rural,NIKR61FL
+NA,NI,Tillaberi,Rural,NIKR61FL
+NA,NI,Niamey,Urban,NIKR61FL
+NA,NI,Agadez,Urban,NIKR61FL
+NA,NI,Maradi,Urban,NIKR61FL
+NA,NI,Zinder,Urban,NIKR61FL
+NA,NI,Agadez,Rural,NIKR61FL
+NA,NI,Dosso,Urban,NIKR61FL
+NA,NI,Diffa,Urban,NIKR61FL
+NA,NI,Tillaberi,Urban,NIKR61FL
+NA,NM,caprivi,rural,NMKR61FL
+NA,NM,khomas,urban,NMKR61FL
+NA,NM,omusati,rural,NMKR61FL
+NA,NM,oshana,rural,NMKR61FL
+NA,NM,omusati,urban,NMKR61FL
+NA,NM,omaheke,rural,NMKR61FL
+NA,NM,hardap,rural,NMKR61FL
+NA,NM,otjozondjupa,rural,NMKR61FL
+NA,NM,karas,urban,NMKR61FL
+NA,NM,oshikoto,rural,NMKR61FL
+NA,NM,kavango,urban,NMKR61FL
+NA,NM,erongo,urban,NMKR61FL
+NA,NM,hardap,urban,NMKR61FL
+NA,NM,karas,rural,NMKR61FL
+NA,NM,kunene,rural,NMKR61FL
+NA,NM,otjozondjupa,urban,NMKR61FL
+NA,NM,oshana,urban,NMKR61FL
+NA,NM,kavango,rural,NMKR61FL
+NA,NM,kunene,urban,NMKR61FL
+NA,NM,omaheke,urban,NMKR61FL
+NA,NM,caprivi,urban,NMKR61FL
+NA,NM,ohangwena,rural,NMKR61FL
+NA,NM,erongo,rural,NMKR61FL
+NA,NM,oshikoto,urban,NMKR61FL
+NA,NM,ohangwena,urban,NMKR61FL
+NA,NM,khomas,rural,NMKR61FL
+NA,RW,kigali,rural,RWKR81FL
+NA,RW,south,rural,RWKR81FL
+NA,RW,north,rural,RWKR81FL
+NA,RW,east,rural,RWKR81FL
+NA,RW,west,rural,RWKR81FL
+NA,RW,north,urban,RWKR81FL
+NA,RW,kigali,urban,RWKR81FL
+NA,RW,east,urban,RWKR81FL
+NA,RW,west,urban,RWKR81FL
+NA,RW,south,urban,RWKR81FL
+NA,SL,southern,rural,SLKR7AFL
+NA,SL,northern,rural,SLKR7AFL
+NA,SL,western,urban,SLKR7AFL
+NA,SL,eastern,rural,SLKR7AFL
+NA,SL,north western,rural,SLKR7AFL
+NA,SL,eastern,urban,SLKR7AFL
+NA,SL,western,rural,SLKR7AFL
+NA,SL,northern,urban,SLKR7AFL
+NA,SL,north western,urban,SLKR7AFL
+NA,SL,southern,urban,SLKR7AFL
+NA,SN,dakar,urban,SNKR8SFL
+NA,SN,dakar,rural,SNKR8SFL
+NA,SN,ziguinchor,urban,SNKR8SFL
+NA,SN,ziguinchor,rural,SNKR8SFL
+NA,SN,diourbel,urban,SNKR8SFL
+NA,SN,diourbel,rural,SNKR8SFL
+NA,SN,saint-louis,urban,SNKR8SFL
+NA,SN,saint-louis,rural,SNKR8SFL
+NA,SN,tambacounda,urban,SNKR8SFL
+NA,SN,tambacounda,rural,SNKR8SFL
+NA,SN,kaolack,urban,SNKR8SFL
+NA,SN,kaolack,rural,SNKR8SFL
+NA,SN,thiès,urban,SNKR8SFL
+NA,SN,thiès,rural,SNKR8SFL
+NA,SN,louga,urban,SNKR8SFL
+NA,SN,louga,rural,SNKR8SFL
+NA,SN,fatick,urban,SNKR8SFL
+NA,SN,fatick,rural,SNKR8SFL
+NA,SN,kolda,urban,SNKR8SFL
+NA,SN,kolda,rural,SNKR8SFL
+NA,SN,matam,urban,SNKR8SFL
+NA,SN,matam,rural,SNKR8SFL
+NA,SN,kaffrine,urban,SNKR8SFL
+NA,SN,kaffrine,rural,SNKR8SFL
+NA,SN,kedougou,urban,SNKR8SFL
+NA,SN,kedougou,rural,SNKR8SFL
+NA,SN,sedhiou,urban,SNKR8SFL
+NA,SN,sedhiou,rural,SNKR8SFL
+NA,ST,região do principe,rural,STKR51FL
+NA,ST,região centro,urban,STKR51FL
+NA,ST,região norte,rural,STKR51FL
+NA,ST,região norte,urban,STKR51FL
+NA,ST,região sul,urban,STKR51FL
+NA,ST,região sul,rural,STKR51FL
+NA,ST,região centro,rural,STKR51FL
+NA,ST,região do principe,urban,STKR51FL
+NA,SZ,manzini,urban,SZKR51FL
+NA,SZ,manzini,rural,SZKR51FL
+NA,SZ,hhohho,urban,SZKR51FL
+NA,SZ,hhohho,rural,SZKR51FL
+NA,SZ,lubombo,urban,SZKR51FL
+NA,SZ,lubombo,rural,SZKR51FL
+NA,SZ,shiselweni,urban,SZKR51FL
+NA,SZ,shiselweni,rural,SZKR51FL
+NA,TD,moyen chari,urban,TDKR71FL
+NA,TD,ouaddaï,urban,TDKR71FL
+NA,TD,borkou/tibesti,rural,TDKR71FL
+NA,TD,chari baguirmi,rural,TDKR71FL
+NA,TD,tandjilé,rural,TDKR71FL
+NA,TD,kanem,rural,TDKR71FL
+NA,TD,borkou/tibesti,urban,TDKR71FL
+NA,TD,moyen chari,rural,TDKR71FL
+NA,TD,ennedi,rural,TDKR71FL
+NA,TD,hadjer-lamis,urban,TDKR71FL
+NA,TD,mandoul,rural,TDKR71FL
+NA,TD,mandoul,urban,TDKR71FL
+NA,TD,lac,rural,TDKR71FL
+NA,TD,n'djaména,urban,TDKR71FL
+NA,TD,mayo kebbi est,rural,TDKR71FL
+NA,TD,guéra,rural,TDKR71FL
+NA,TD,wadi fira,rural,TDKR71FL
+NA,TD,mayo kebbi est,urban,TDKR71FL
+NA,TD,mayo kebbi ouest,rural,TDKR71FL
+NA,TD,batha,rural,TDKR71FL
+NA,TD,salamat,rural,TDKR71FL
+NA,TD,sila,urban,TDKR71FL
+NA,TD,sila,rural,TDKR71FL
+NA,TD,barh el gazal,urban,TDKR71FL
+NA,TD,barh el gazal,rural,TDKR71FL
+NA,TD,hadjer-lamis,rural,TDKR71FL
+NA,TD,guéra,urban,TDKR71FL
+NA,TD,logone oriental,urban,TDKR71FL
+NA,TD,logone oriental,rural,TDKR71FL
+NA,TD,batha,urban,TDKR71FL
+NA,TD,logone occidental,urban,TDKR71FL
+NA,TD,salamat,urban,TDKR71FL
+NA,TD,ennedi,urban,TDKR71FL
+NA,TD,wadi fira,urban,TDKR71FL
+NA,TD,logone occidental,rural,TDKR71FL
+NA,TD,ouaddaï,rural,TDKR71FL
+NA,TD,mayo kebbi ouest,urban,TDKR71FL
+NA,TD,tandjilé,urban,TDKR71FL
+NA,TD,kanem,urban,TDKR71FL
+NA,TD,lac,urban,TDKR71FL
+NA,TD,chari baguirmi,urban,TDKR71FL
+NA,TG,grande agglomération de lomé,urban,TGKR61FL
+NA,TG,kara,rural,TGKR61FL
+NA,TG,plateaux,rural,TGKR61FL
+NA,TG,savanes,rural,TGKR61FL
+NA,TG,maritime (sans agglomération de lomé),rural,TGKR61FL
+NA,TG,centrale,rural,TGKR61FL
+NA,TG,savanes,urban,TGKR61FL
+NA,TG,plateaux,urban,TGKR61FL
+NA,TG,centrale,urban,TGKR61FL
+NA,TG,kara,urban,TGKR61FL
+NA,TG,maritime (sans agglomération de lomé),urban,TGKR61FL
+NA,TZ,dodoma,rural,TZKR82FL
+NA,TZ,dodoma,urban,TZKR82FL
+NA,TZ,arusha,urban,TZKR82FL
+NA,TZ,arusha,rural,TZKR82FL
+NA,TZ,kilimanjaro,rural,TZKR82FL
+NA,TZ,kilimanjaro,urban,TZKR82FL
+NA,TZ,tanga,urban,TZKR82FL
+NA,TZ,tanga,rural,TZKR82FL
+NA,TZ,morogoro,urban,TZKR82FL
+NA,TZ,morogoro,rural,TZKR82FL
+NA,TZ,pwani,rural,TZKR82FL
+NA,TZ,pwani,urban,TZKR82FL
+NA,TZ,dar es salaam,urban,TZKR82FL
+NA,TZ,lindi,rural,TZKR82FL
+NA,TZ,lindi,urban,TZKR82FL
+NA,TZ,mtwara,rural,TZKR82FL
+NA,TZ,mtwara,urban,TZKR82FL
+NA,TZ,ruvuma,urban,TZKR82FL
+NA,TZ,ruvuma,rural,TZKR82FL
+NA,TZ,iringa,rural,TZKR82FL
+NA,TZ,iringa,urban,TZKR82FL
+NA,TZ,mbeya,rural,TZKR82FL
+NA,TZ,mbeya,urban,TZKR82FL
+NA,TZ,singida,rural,TZKR82FL
+NA,TZ,singida,urban,TZKR82FL
+NA,TZ,tabora,rural,TZKR82FL
+NA,TZ,tabora,urban,TZKR82FL
+NA,TZ,rukwa,rural,TZKR82FL
+NA,TZ,rukwa,urban,TZKR82FL
+NA,TZ,kigoma,urban,TZKR82FL
+NA,TZ,kigoma,rural,TZKR82FL
+NA,TZ,shinyanga,urban,TZKR82FL
+NA,TZ,shinyanga,rural,TZKR82FL
+NA,TZ,kagera,rural,TZKR82FL
+NA,TZ,kagera,urban,TZKR82FL
+NA,TZ,mwanza,rural,TZKR82FL
+NA,TZ,mwanza,urban,TZKR82FL
+NA,TZ,mara,rural,TZKR82FL
+NA,TZ,mara,urban,TZKR82FL
+NA,TZ,manyara,rural,TZKR82FL
+NA,TZ,manyara,urban,TZKR82FL
+NA,TZ,njombe,urban,TZKR82FL
+NA,TZ,njombe,rural,TZKR82FL
+NA,TZ,katavi,rural,TZKR82FL
+NA,TZ,katavi,urban,TZKR82FL
+NA,TZ,simiyu,rural,TZKR82FL
+NA,TZ,simiyu,urban,TZKR82FL
+NA,TZ,geita,rural,TZKR82FL
+NA,TZ,geita,urban,TZKR82FL
+NA,TZ,songwe,urban,TZKR82FL
+NA,TZ,songwe,rural,TZKR82FL
+NA,TZ,kaskazini unguja,rural,TZKR82FL
+NA,TZ,kaskazini unguja,urban,TZKR82FL
+NA,TZ,kusini unguja,rural,TZKR82FL
+NA,TZ,kusini unguja,urban,TZKR82FL
+NA,TZ,mjini magharibi,urban,TZKR82FL
+NA,TZ,mjini magharibi,rural,TZKR82FL
+NA,TZ,kaskazini pemba,urban,TZKR82FL
+NA,TZ,kaskazini pemba,rural,TZKR82FL
+NA,TZ,kusini pemba,urban,TZKR82FL
+NA,TZ,kusini pemba,rural,TZKR82FL
+NA,UG,kampala,urban,UGKR7BFL
+NA,UG,south buganda,rural,UGKR7BFL
+NA,UG,south buganda,urban,UGKR7BFL
+NA,UG,north buganda,rural,UGKR7BFL
+NA,UG,north buganda,urban,UGKR7BFL
+NA,UG,busoga,rural,UGKR7BFL
+NA,UG,busoga,urban,UGKR7BFL
+NA,UG,bukedi,rural,UGKR7BFL
+NA,UG,bukedi,urban,UGKR7BFL
+NA,UG,bugisu,rural,UGKR7BFL
+NA,UG,bugisu,urban,UGKR7BFL
+NA,UG,teso,rural,UGKR7BFL
+NA,UG,teso,urban,UGKR7BFL
+NA,UG,karamoja,rural,UGKR7BFL
+NA,UG,karamoja,urban,UGKR7BFL
+NA,UG,lango,rural,UGKR7BFL
+NA,UG,lango,urban,UGKR7BFL
+NA,UG,acholi,rural,UGKR7BFL
+NA,UG,acholi,urban,UGKR7BFL
+NA,UG,west nile,rural,UGKR7BFL
+NA,UG,west nile,urban,UGKR7BFL
+NA,UG,bunyoro,rural,UGKR7BFL
+NA,UG,bunyoro,urban,UGKR7BFL
+NA,UG,tooro,rural,UGKR7BFL
+NA,UG,tooro,urban,UGKR7BFL
+NA,UG,ankole,rural,UGKR7BFL
+NA,UG,ankole,urban,UGKR7BFL
+NA,UG,kigezi,rural,UGKR7BFL
+NA,UG,kigezi,urban,UGKR7BFL
+NA,ZA,gauteng,urban,ZAKR71FL
+NA,ZA,kwazulu-natal,rural,ZAKR71FL
+NA,ZA,free state,urban,ZAKR71FL
+NA,ZA,mpumalanga,rural,ZAKR71FL
+NA,ZA,eastern cape,rural,ZAKR71FL
+NA,ZA,eastern cape,urban,ZAKR71FL
+NA,ZA,north west,urban,ZAKR71FL
+NA,ZA,north west,rural,ZAKR71FL
+NA,ZA,kwazulu-natal,urban,ZAKR71FL
+NA,ZA,mpumalanga,urban,ZAKR71FL
+NA,ZA,western cape,urban,ZAKR71FL
+NA,ZA,free state,rural,ZAKR71FL
+NA,ZA,northern cape,urban,ZAKR71FL
+NA,ZA,northern cape,rural,ZAKR71FL
+NA,ZA,limpopo,rural,ZAKR71FL
+NA,ZA,western cape,rural,ZAKR71FL
+NA,ZA,gauteng,rural,ZAKR71FL
+NA,ZA,limpopo,urban,ZAKR71FL
+NA,ZM,eastern,rural,ZMKR71FL
+NA,ZM,copperbelt,rural,ZMKR71FL
+NA,ZM,northern,urban,ZMKR71FL
+NA,ZM,central,urban,ZMKR71FL
+NA,ZM,central,rural,ZMKR71FL
+NA,ZM,muchinga,urban,ZMKR71FL
+NA,ZM,southern,urban,ZMKR71FL
+NA,ZM,southern,rural,ZMKR71FL
+NA,ZM,muchinga,rural,ZMKR71FL
+NA,ZM,northern,rural,ZMKR71FL
+NA,ZM,luapula,urban,ZMKR71FL
+NA,ZM,luapula,rural,ZMKR71FL
+NA,ZM,western,rural,ZMKR71FL
+NA,ZM,north western,urban,ZMKR71FL
+NA,ZM,north western,rural,ZMKR71FL
+NA,ZM,lusaka,rural,ZMKR71FL
+NA,ZM,lusaka,urban,ZMKR71FL
+NA,ZM,western,urban,ZMKR71FL
+NA,ZM,copperbelt,urban,ZMKR71FL
+NA,ZM,eastern,urban,ZMKR71FL
+NA,ZW,mashonaland east,rural,ZWKR72FL
+NA,ZW,masvingo,rural,ZWKR72FL
+NA,ZW,harare,urban,ZWKR72FL
+NA,ZW,mashonaland west,rural,ZWKR72FL
+NA,ZW,bulawayo,urban,ZWKR72FL
+NA,ZW,mashonaland east,urban,ZWKR72FL
+NA,ZW,mashonaland central,urban,ZWKR72FL
+NA,ZW,manicaland,rural,ZWKR72FL
+NA,ZW,midlands,urban,ZWKR72FL
+NA,ZW,midlands,rural,ZWKR72FL
+NA,ZW,mashonaland central,rural,ZWKR72FL
+NA,ZW,matabeleland north,rural,ZWKR72FL
+NA,ZW,matabeleland south,rural,ZWKR72FL
+NA,ZW,mashonaland west,urban,ZWKR72FL
+NA,ZW,manicaland,urban,ZWKR72FL
+NA,ZW,matabeleland north,urban,ZWKR72FL
+NA,ZW,masvingo,urban,ZWKR72FL
+NA,ZW,harare,rural,ZWKR72FL
+NA,ZW,matabeleland south,urban,ZWKR72FL
